@@ -1,0 +1,13 @@
+.framework
+src/@dashboard
+src/@dashboard-examples
+src/@composable-maps
+src/@composable-maps-examples
+src/vite-env.d.ts
+
+vite.config.ts
+tsconfig.json
+DASHBOARD-GUIDE.md
+
+!node_modules
+!.framework/node_modules

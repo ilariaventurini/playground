@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  padding: 10px 20px;
+  gap: 10px;
+}
+
+.methods {
+  max-width: 700px;
+}
+
+.dateRange {
+  flex-grow: 1;
+  display: flex;
+  justify-content: end;
+}

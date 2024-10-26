@@ -1,0 +1,11 @@
+{
+  "demo": {
+    "logo": "logo",
+    "payment-channel": "Payment channel.",
+    "tipologia-esercente": "Tipologia di esercente",
+    "fascia-di-spesa": "Fascia di spesa",
+    "media-per-giorni-settimana": "Media per giorni della settimana",
+    "media-per-orario": "Media per orario",
+    "filtered": "Filtered"
+  }
+}
